@@ -190,7 +190,7 @@
 	cmd = /Applications/kdiff3.app/Contents/MacOS/kdiff3 \"$BASE\" \"$LOCAL\" \"$REMOTE\" -o \"$MERGED\"
 	trustExitCode = true
 [github]
-	user = pelegb
+	user = dorm-ai21
 [user]
 	name = Barak Peleg
 	email = barakp@ai21.com
